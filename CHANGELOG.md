@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-09)
+## Unreleased (2026-10-14)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`cda73b3`](https://github.com/stdlib-js/stdlib/commit/cda73b36cf711aed215178a5098c3cd0e04cadc7) - **test:** migrate `stats/incr/nanrmse` to ULP-based assertions [(#16138)](https://github.com/stdlib-js/stdlib/pull/16138) _(by Philipp Burckhardt)_
 -   [`d6ca649`](https://github.com/stdlib-js/stdlib/commit/d6ca6490d033f6fee757ebe2517f394d112d4c14) - **feat:** add `stats/incr/nanrmse` [(#12357)](https://github.com/stdlib-js/stdlib/pull/12357) _(by wilmerdooley)_
 
 </details>
@@ -46,8 +47,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Philipp Burckhardt
 -   wilmerdooley
 
 </section>
